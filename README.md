@@ -1,0 +1,2 @@
+# GenshinImpactHubOnTop
+Genshin_Impact_Hub
